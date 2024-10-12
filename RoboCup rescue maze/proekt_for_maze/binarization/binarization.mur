@@ -1,0 +1,9 @@
+{
+    "description": binarization UI,
+    "headers": [
+    ],
+    "name": "binarization",
+    "sources": [
+        "main.cpp"
+    ]
+}
